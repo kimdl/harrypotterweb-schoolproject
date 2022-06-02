@@ -1,0 +1,116 @@
+.col1{
+    flex-basis: 35%;
+}
+
+.container-hp{
+    margin-top: 100px;
+    width: 100%;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+.container-a{
+    background-color: #ccccb3;
+    margin-top: 30px;
+    width: 100%;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.container-a p{
+color: #4E342E;
+line-height: 25px;
+}
+.books{
+    margin-top: 160px;
+    color: #000;
+}
+h3{
+    margin: 20px;
+}
+.cardd{
+    width: 210px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 10px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 50px;
+    background-position: center;
+    background-size: cover;
+    transition: transform 0.5s;
+}
+.castt{
+    width: 158px;
+    height: 234px;
+    display: inline-block;
+    border-radius: 10px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 5px 15px;
+    background-position: center;
+    background-size: cover;
+    transition: transform 0.5s;
+}
+.card1{
+    background-image: url(/images/HPATPS_Hero_OnGrey.png);
+}
+.card2{
+    background-image: url(/images/HPATCOS_Hero_OnGrey.png);
+}
+.card3{
+    background-image: url(/images/HPATPOA_Hero_OnGrey.png);
+}
+.card4{
+    background-image: url(/images/HPATGOF_Hero_OnGrey.png);
+}
+.card5{
+    background-image: url(/images/HPATOOTP_Hero_OnGrey.png);
+}
+.card6{
+    background-image: url(/images/HPATHBP_Hero_OnGrey.png);
+}
+
+.card7{
+    background-image: url(/images/HPATDH_Hero_OnGrey.png);
+}
+.card:hover{
+    transform: translateY(-10px);
+}
+
+
+.rowcast{
+    display: flex;
+    height: 88%;
+}
+
+.cast1{
+    background-image: url(/images/dr.jpg);
+    margin-top: 50px;
+}
+.cast2{
+    background-image: url(/images/rg.jpg);
+    margin-top: 50px;
+}
+.cast3{
+    background-image: url(/images/ew.jpg);
+    margin-top: 50px;
+}
+.cast4{
+    background-image: url(/images/tff.jpg);
+    margin-top: 50px;
+}
+.cast5{
+    background-image: url(/images/nl.jpg);
+    margin-top: 50px;
+}
+.cast6{
+    background-image: url(/images/gww.jpg);
+    margin-top: 50px;
+}
